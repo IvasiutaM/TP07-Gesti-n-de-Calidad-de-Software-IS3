@@ -1,0 +1,14 @@
+C:\Users\Ivasi\Desktop\TP 3 SL1\TP3-Estructuras_De_Control\bin\Debug\TP3-Estructuras_De_Control.exe.config
+C:\Users\Ivasi\Desktop\TP 3 SL1\TP3-Estructuras_De_Control\bin\Debug\TP3-Estructuras_De_Control.exe
+C:\Users\Ivasi\Desktop\TP 3 SL1\TP3-Estructuras_De_Control\bin\Debug\TP3-Estructuras_De_Control.pdb
+C:\Users\Ivasi\Desktop\TP 3 SL1\TP3-Estructuras_De_Control\obj\Debug\TP3-Estructuras_De_Control.csproj.AssemblyReference.cache
+C:\Users\Ivasi\Desktop\TP 3 SL1\TP3-Estructuras_De_Control\obj\Debug\TP3_Estructuras_De_Control.Form1.resources
+C:\Users\Ivasi\Desktop\TP 3 SL1\TP3-Estructuras_De_Control\obj\Debug\TP3_Estructuras_De_Control.Properties.Resources.resources
+C:\Users\Ivasi\Desktop\TP 3 SL1\TP3-Estructuras_De_Control\obj\Debug\TP3-Estructuras_De_Control.csproj.GenerateResource.cache
+C:\Users\Ivasi\Desktop\TP 3 SL1\TP3-Estructuras_De_Control\obj\Debug\TP3-Estructuras_De_Control.csproj.CoreCompileInputs.cache
+C:\Users\Ivasi\Desktop\TP 3 SL1\TP3-Estructuras_De_Control\obj\Debug\TP3-Estructuras_De_Control.exe
+C:\Users\Ivasi\Desktop\TP 3 SL1\TP3-Estructuras_De_Control\obj\Debug\TP3-Estructuras_De_Control.pdb
+C:\Users\Ivasi\Desktop\TP 3 SL1\TP3-Estructuras_De_Control\obj\Debug\TP3_Estructuras_De_Control.FormEjercicio1.resources
+C:\Users\Ivasi\Desktop\TP 3 SL1\TP3-Estructuras_De_Control\obj\Debug\TP3_Estructuras_De_Control.FormEjercicio2.resources
+C:\Users\Ivasi\Desktop\TP 3 SL1\TP3-Estructuras_De_Control\obj\Debug\TP3_Estructuras_De_Control.FormEjercicio3.resources
+C:\Users\Ivasi\Desktop\TP 3 SL1\TP3-Estructuras_De_Control\obj\Debug\TP3_Estructuras_De_Control.FormEjercicio4.resources
