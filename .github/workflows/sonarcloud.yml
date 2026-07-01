@@ -35,6 +35,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         run: |
-          dotnet-sonarscanner begin /k:"TU_ORGANIZACION_TU_PROYECTO" /o:"tu-organizacion" /d:sonar.token="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
+          dotnet-sonarscanner begin /k:"IvasiutaM_TP07-Gesti-n-de-Calidad-de-Software-IS3" /o:"ivasiutam" /d:sonar.token="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
           dotnet build --no-incremental
           dotnet-sonarscanner end /d:sonar.token="${{ secrets.SONAR_TOKEN }}"
